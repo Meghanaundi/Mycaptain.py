@@ -9,3 +9,6 @@ int main()
  printf("After swap a=%d b=%d \n",a,b);
  return 0;
 }
+/*output
+Before swap a=10 b=20 
+After swap a=20 b=10 */ 
